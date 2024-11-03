@@ -14,7 +14,7 @@ This repository features my high school digital clock project (the first revisio
 
 - **Timekeeping:** Uses a simple oscillator and counter to keep time.
 - **Display:** Displays hours, minutes, and seconds on an LED display.
-- **Alarm:** You can setup alarms.
+- **Alarm:** You can setup alarms on the fly.
 
 
 ## Project Background
