@@ -19,7 +19,7 @@ This repository features my high school digital clock project (the first revisio
 
 ## Project Background
 
-During my high school years, this project was my introduction to practical circuit design. It’s been a fascinating experience to work with timeless components and learn the basics of digital electronics. Check out the [original Reddit post](https://www.reddit.com/r/ElectricalEngineering/comments/1bd8fw8/what_do_you_guys_think_of_my_highschool_ee_project/) where I first showcased this, and received a lot of great feedback from the community.
+During my high school years, this project was my introduction to practical circuit design. It’s been a fascinating experience to work with timeless components and learn the basics of digital electronics.
 
 ---
 
